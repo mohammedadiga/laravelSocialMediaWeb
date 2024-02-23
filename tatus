@@ -1,0 +1,29 @@
+[33mcommit 51a4ba362afd3e19bc2466bba246fe419ab1f873[m[33m ([m[1;36mHEAD -> [m[1;32mAdigamahoo[m[33m, [m[1;31morigin/Adigamahoo[m[33m)[m
+Author: Adigamahoo <mohammed.adiga011@gmail.com>
+Date:   Sat Feb 17 00:30:32 2024 +0300
+
+    Implement username create and update on user
+
+[33mcommit 92f4428cad811ef8c8180579905e5709af1eb21d[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Adigamahoo <mohammed.adiga011@gmail.com>
+Date:   Wed Feb 14 00:00:13 2024 +0300
+
+    add Columns to User Table
+
+[33mcommit fcec3bb7ede393be138479b459572751baf5ef21[m
+Author: Adigamahoo <mohammed.adiga011@gmail.com>
+Date:   Tue Feb 13 23:51:59 2024 +0300
+
+    Add migrations for database schema
+
+[33mcommit ee9299415226a245106ac7359ebe89772151f24d[m
+Author: Adigamahoo <mohammed.adiga011@gmail.com>
+Date:   Tue Feb 13 23:19:54 2024 +0300
+
+    Install <Laravel/Breeze> and Create Migrations
+
+[33mcommit 357d3922d5dafb0acc722198836073b891006a53[m
+Author: Adigamahoo <mohammed.adiga011@gmail.com>
+Date:   Tue Feb 13 22:44:06 2024 +0300
+
+    install Laravel in the docker
